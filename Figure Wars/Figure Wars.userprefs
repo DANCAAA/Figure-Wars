@@ -1,0 +1,23 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\Inventory.cs">
+    <Files>
+      <File FileName="Assets\Scripts\Consumable.cs" Line="8" Column="30" />
+      <File FileName="Assets\Scripts\PowerDef.cs" Line="7" Column="1" />
+      <File FileName="Assets\Scripts\PowerAtk.cs" Line="7" Column="17" />
+      <File FileName="Assets\Scripts\PowerSpeed.cs" Line="12" Column="3" />
+      <File FileName="Assets\Scripts\Armor.cs" Line="5" Column="35" />
+      <File FileName="Assets\Scripts\Hair.cs" Line="5" Column="34" />
+      <File FileName="Assets\Scripts\Weapon.cs" Line="14" Column="3" />
+      <File FileName="Assets\Scripts\Inventory.cs" Line="30" Column="5" />
+      <File FileName="Assets\Scripts\Store.cs" Line="11" Column="29" />
+      <File FileName="Assets\Scripts\Item.cs" Line="7" Column="24" />
+      <File FileName="Assets\Scripts\NonConsumable.cs" Line="10" Column="21" />
+      <File FileName="Assets\Scripts\Manager.cs" Line="16" Column="2" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

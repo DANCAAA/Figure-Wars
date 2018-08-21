@@ -7,6 +7,7 @@ public abstract class NonConsumable : Item
     float atk;
     float def;
     float vel;
+	public bool bought;
 
 	// Use this for initialization
 	void Start ()
