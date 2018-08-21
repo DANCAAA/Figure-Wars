@@ -4,8 +4,8 @@ using UnityEngine;
 
 public abstract class Consumable : Item
 {
-    float percent;
-    float duration;
+    protected float percent;
+    protected float duration;
 
 	// Use this for initialization
 	void Start ()

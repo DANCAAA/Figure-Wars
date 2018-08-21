@@ -2,16 +2,10 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public abstract class NonConsumable : Item
-{
-    float atk;
-    float def;
-    float vel;
-	public bool bought;
+public class Hair : NonConsumable {
 
 	// Use this for initialization
-	void Start ()
-    {
+	void Start () {
 		
 	}
 	
