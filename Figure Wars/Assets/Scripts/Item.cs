@@ -4,9 +4,11 @@ using UnityEngine;
 
 public abstract class Item : MonoBehaviour
 {
+    float price;
 
 	// Use this for initialization
-	void Start () {
+	void Start ()
+    {
 		
 	}
 	
