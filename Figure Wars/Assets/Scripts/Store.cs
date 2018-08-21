@@ -2,19 +2,16 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public abstract class Item : MonoBehaviour
+public class Store : MonoBehaviour
 {
-    float price;
 
 	// Use this for initialization
-	void Start ()
-    {
+	void Start () {
 		
 	}
 	
 	// Update is called once per frame
-	void Update ()
-    {
+	void Update () {
 		
 	}
 }

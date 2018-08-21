@@ -2,9 +2,10 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public abstract class Item : MonoBehaviour
+public abstract class Consumable : Item
 {
-    float price;
+    float percent;
+    float duration;
 
 	// Use this for initialization
 	void Start ()

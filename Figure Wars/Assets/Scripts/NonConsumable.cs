@@ -2,9 +2,11 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public abstract class Item : MonoBehaviour
+public abstract class NonConsumable : Item
 {
-    float price;
+    float atk;
+    float def;
+    float vel;
 
 	// Use this for initialization
 	void Start ()
@@ -13,8 +15,7 @@ public abstract class Item : MonoBehaviour
 	}
 	
 	// Update is called once per frame
-	void Update ()
-    {
+	void Update () {
 		
 	}
 }
