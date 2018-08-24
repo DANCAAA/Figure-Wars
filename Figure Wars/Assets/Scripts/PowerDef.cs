@@ -4,10 +4,16 @@ using UnityEngine;
 
 public class PowerDef : Consumable {
 
-	public PowerDef(float precio, float porcentaje, float duracion){
+
+
+	public PowerDef(int precio, float porcentaje, float duracion){
 	 
 		price = precio;
 		duration = duracion;
 		percent = porcentaje;
+	}
+
+	public void Consume(){
+		
 	}
 }

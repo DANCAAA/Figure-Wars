@@ -4,10 +4,15 @@ using UnityEngine;
 
 public class PowerAtk : Consumable {
 
-	public PowerAtk(float precio, float porcentaje, float duracion){
+
+
+	public PowerAtk(int precio, float porcentaje, float duracion){
 
 		price = precio;
 		duration = duracion;
 		percent = porcentaje;
+	}
+
+	public void Consume(){
 	}
 }

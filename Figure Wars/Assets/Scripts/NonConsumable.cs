@@ -8,15 +8,16 @@ public abstract class NonConsumable : Item
     float def;
     float vel;
 	public bool bought;
+	public bool equiped;
 
-	// Use this for initialization
-	void Start ()
-    {
-		
-	}
+	public void Equip(){
 	
-	// Update is called once per frame
-	void Update () {
-		
+	
 	}
+
+	public void Unequip(){
+	
+	
+	}
+
 }

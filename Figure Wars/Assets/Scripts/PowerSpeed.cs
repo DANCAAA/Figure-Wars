@@ -4,10 +4,14 @@ using UnityEngine;
 
 public class PowerSpeed : Consumable {
 
-	public PowerSpeed(float precio, float porcentaje, float duracion){
+
+	public PowerSpeed(int precio, float porcentaje, float duracion){
 
 		price = precio;
 		duration = duracion;
 		percent = porcentaje;
+	}
+
+	public void Consume(){
 	}
 }

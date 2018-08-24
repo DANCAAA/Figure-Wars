@@ -6,16 +6,8 @@ public abstract class Consumable : Item
 {
     protected float percent;
     protected float duration;
+	public int cantidad;
 
-	// Use this for initialization
-	void Start ()
-    {
-		
-	}
-	
-	// Update is called once per frame
-	void Update ()
-    {
-		
+	public void Consume(){
 	}
 }
