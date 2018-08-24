@@ -61,12 +61,19 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\Scripts\Armor.cs" />
     <Compile Include="Assets\Scripts\Consumable.cs" />
     <Compile Include="Assets\Scripts\Currency.cs" />
+    <Compile Include="Assets\Scripts\Hair.cs" />
     <Compile Include="Assets\Scripts\Inventory.cs" />
     <Compile Include="Assets\Scripts\Item.cs" />
+    <Compile Include="Assets\Scripts\Manager.cs" />
     <Compile Include="Assets\Scripts\NonConsumable.cs" />
+    <Compile Include="Assets\Scripts\PowerAtk.cs" />
+    <Compile Include="Assets\Scripts\PowerDef.cs" />
+    <Compile Include="Assets\Scripts\PowerSpeed.cs" />
     <Compile Include="Assets\Scripts\Store.cs" />
+    <Compile Include="Assets\Scripts\Weapon.cs" />
     <Reference Include="UnityEditor.StandardEvents">
       <HintPath>C:/Users/DANCA/Documents/RepositorioFigureWars/Figure-Wars/Figure Wars/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
     </Reference>
